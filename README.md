@@ -49,6 +49,8 @@
 | [**field-force-analytics**](https://github.com/OKUMUKOKUMU/field-force-analytics) | GPS geofence visit verification, ghost-visit detection and FIFO freshness alerts — the analytics behind MerchTrack |
 | [**dairy-traceability-dbt**](https://github.com/OKUMUKOKUMU/dairy-traceability-dbt) | dbt project tracing milk lots from collection centre to dispatch, with yield & waste marts |
 | [**market-basket-analysis**](https://github.com/OKUMUKOKUMU/market-basket-analysis) | Association-rule mining on 15k retail baskets in **Python and R**: lift, Fisher-tested rules, shopping-mission network, recommender and cross-sell sizing |
+| [**customer-segmentation-churn**](https://github.com/OKUMUKOKUMU/customer-segmentation-churn) | RFM + K-means segmentation of 4,000 outlets and a leakage-safe churn model (AUC 0.91) in **Python and R**, with revenue-at-risk targeting |
+| [**sales-forecasting-time-series**](https://github.com/OKUMUKOKUMU/sales-forecasting-time-series) | Six forecasting models (seasonal naive, ETS, Theta, SARIMAX, Prophet, gradient boosting) + ensemble on weekly dairy sales in **Python and R**: backtesting, promo-effect estimation, Q4 forecast with intervals |
 | [**tb-drug-resistance-analysis**](https://github.com/OKUMUKOKUMU/tb-drug-resistance-analysis) | Reproducible R workflow for risk-factor analysis, mirroring my published MDR-TB study (simulated data) |
 | [**MerchTrack**](https://github.com/OKUMUKOKUMU/MerchTrack) | TypeScript field-force automation platform |
 | [**Sales-Forecasting-App**](https://github.com/OKUMUKOKUMU/Sales-Forecasting-App) | Forecasts sales by item, customer and month |
