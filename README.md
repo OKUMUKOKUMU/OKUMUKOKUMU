@@ -33,9 +33,13 @@
 
 **Analytics engineering:** ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) Dataform · ETL/ELT · SQL Server · ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-**ML & AI:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+**ML & AI:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?logoColor=white) SHAP
+
+**AI & LLMs:** ![Claude](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white) LLM briefings & document extraction · computer vision (planogram compliance) · prompt engineering · AI-assisted workflows
 
 **BI & apps:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) Looker Studio · R Shiny
+
+**No-code & low-code platforms:** ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white) ![Softr](https://img.shields.io/badge/Softr-0F1BF7?logoColor=white) Airtable bases, automations & API (pyairtable) · Softr client/field portals with role-based access
 
 **Marketing & eCommerce analytics:** GA4 · Shopify · attribution · CAC / ROAS / CTR reporting · customer segmentation & churn modelling
 
@@ -51,6 +55,7 @@
 | [**market-basket-analysis**](https://github.com/OKUMUKOKUMU/market-basket-analysis) | Association-rule mining on 15k retail baskets in **Python and R**: lift, Fisher-tested rules, shopping-mission network, recommender and cross-sell sizing |
 | [**customer-segmentation-churn**](https://github.com/OKUMUKOKUMU/customer-segmentation-churn) | RFM + K-means segmentation of 4,000 outlets and a leakage-safe churn model (AUC 0.91) in **Python and R**, with revenue-at-risk targeting |
 | [**sales-forecasting-time-series**](https://github.com/OKUMUKOKUMU/sales-forecasting-time-series) | Six forecasting models (seasonal naive, ETS, Theta, SARIMAX, Prophet, gradient boosting) + ensemble on weekly dairy sales in **Python and R**: backtesting, promo-effect estimation, Q4 forecast with intervals |
+| [**stockout-prediction-ml**](https://github.com/OKUMUKOKUMU/stockout-prediction-ml) | ML that predicts next-week stock-outs per outlet × SKU (XGBoost/LightGBM, SHAP reason codes, value-ranked alerts), pushed to **Airtable**, served in a **Softr** field portal, with an **AI-written** manager briefing |
 | [**tb-drug-resistance-analysis**](https://github.com/OKUMUKOKUMU/tb-drug-resistance-analysis) | Reproducible R workflow for risk-factor analysis, mirroring my published MDR-TB study (simulated data) |
 | [**MerchTrack**](https://github.com/OKUMUKOKUMU/MerchTrack) | TypeScript field-force automation platform |
 | [**Sales-Forecasting-App**](https://github.com/OKUMUKOKUMU/Sales-Forecasting-App) | Forecasts sales by item, customer and month |
