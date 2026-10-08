@@ -11,7 +11,7 @@
 
 ### 🧭 About me
 
-- 📍 Kisumu, Kenya — **6+ years** across FMCG/manufacturing, retail and global health research
+- 📍 Nairobi, Kenya — **6+ years** across FMCG/manufacturing, supply chain & logistics, eCommerce and healthcare research
 - 📊 Lead a **10-person Analytics & Data team** (4 managers) and the Commercial function at **Sunpower Products Ltd (Brown's Foodco)**, with P&L accountability across **10 brands**
 - 🏗️ Lead architect of three enterprise systems: a **nationwide field-force automation platform**, a **dairy manufacturing traceability ERP**, and an **internal HR & productivity system**
 - 🔬 Former Data Manager on **Reach Wiser – University of Oxford**, running multi-country survey data, SAPs and governance
@@ -31,11 +31,13 @@
 
 **Languages & stats:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) SAS · Stata · SPSS
 
-**Analytics engineering:** ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) Dataform · ETL/ELT · SQL Server · ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+**Analytics engineering:** ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) Dataform · ETL/ELT · SQL Server · ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 **ML & AI:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 
 **BI & apps:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) Looker Studio · R Shiny
+
+**Marketing & eCommerce analytics:** GA4 · Shopify · attribution · CAC / ROAS / CTR reporting · customer segmentation & churn modelling
 
 **Field data:** REDCap · ODK · KoboToolbox · SurveyCTO · CommCare · ArcGIS
 
