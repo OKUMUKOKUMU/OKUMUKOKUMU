@@ -48,6 +48,7 @@
 | [**fmcg-pnl-optimisation**](https://github.com/OKUMUKOKUMU/fmcg-pnl-optimisation) | Brand/SKU P&L model, cost-lever simulation and target setting — the method behind *Project 20%* (synthetic data) |
 | [**field-force-analytics**](https://github.com/OKUMUKOKUMU/field-force-analytics) | GPS geofence visit verification, ghost-visit detection and FIFO freshness alerts — the analytics behind MerchTrack |
 | [**dairy-traceability-dbt**](https://github.com/OKUMUKOKUMU/dairy-traceability-dbt) | dbt project tracing milk lots from collection centre to dispatch, with yield & waste marts |
+| [**market-basket-analysis**](https://github.com/OKUMUKOKUMU/market-basket-analysis) | Association-rule mining on 15k retail baskets in **Python and R**: lift, Fisher-tested rules, shopping-mission network, recommender and cross-sell sizing |
 | [**tb-drug-resistance-analysis**](https://github.com/OKUMUKOKUMU/tb-drug-resistance-analysis) | Reproducible R workflow for risk-factor analysis, mirroring my published MDR-TB study (simulated data) |
 | [**MerchTrack**](https://github.com/OKUMUKOKUMU/MerchTrack) | TypeScript field-force automation platform |
 | [**Sales-Forecasting-App**](https://github.com/OKUMUKOKUMU/Sales-Forecasting-App) | Forecasts sales by item, customer and month |
